@@ -8,4 +8,6 @@ Link : Matriks : https://docs.google.com/spreadsheets/d/1ph9nWx1_OEnAUx7QfMennDx
 
 Link report : https://docs.google.com/document/d/1vTiVyQEhAkqyyycvQiX6UkAq2-PR0ngf/edit?usp=sharing&ouid=103483335453650320130&rtpof=true&sd=true
 
+link Test plane : https://docs.google.com/document/d/1MUY1fwSEwN83w2wtMXKodTDkhsCFOimK/edit#
+
 link Slide : https://docs.google.com/presentation/d/1Zljw6deYXANm3cGo_GJWkPcd3Dejlh-7JxlThiP-QPI/edit?usp=sharing
